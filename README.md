@@ -5,6 +5,10 @@
 |:-:|:-:|:-:|
 |1|Introduction|[Lecture Slide](https://github.com/Jasonlee1995/CS182/blob/main/Lecture%20Slides/Lecture01.pdf), [Supplement](https://github.com/Jasonlee1995/CS182/blob/main/Supplements/Lecture01_sup.pdf)|
 |2|ML Basics 1|[Lecture Slide](https://github.com/Jasonlee1995/CS182/blob/main/Lecture%20Slides/Lecture02.pdf), [Supplement](https://github.com/Jasonlee1995/CS182/blob/main/Supplements/Lecture02_sup.pdf)|
+|3|ML Basics 2|[Lecture Slide](https://github.com/Jasonlee1995/CS182/blob/main/Lecture%20Slides/Lecture03.pdf), [Supplement](https://github.com/Jasonlee1995/CS182/blob/main/Supplements/Lecture03_sup.pdf)|
+|4|Optimization|[Lecture Slide](https://github.com/Jasonlee1995/CS182/blob/main/Lecture%20Slides/Lecture04.pdf), [Supplement](https://github.com/Jasonlee1995/CS182/blob/main/Supplements/Lecture04_sup.pdf)|
+
+Format : |num|topic|[Lecture Slide](), [Supplement]()|
 
 
 ## Links

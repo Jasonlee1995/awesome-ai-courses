@@ -9,6 +9,8 @@
 |4|Optimization|[Lecture Slide](https://github.com/Jasonlee1995/CS182/blob/main/Lecture%20Slides/Lecture04.pdf), [Supplement](https://github.com/Jasonlee1995/CS182/blob/main/Supplements/Lecture04_sup.pdf)|
 |5|Backpropagation|[Lecture Slide](https://github.com/Jasonlee1995/CS182/blob/main/Lecture%20Slides/Lecture05.pdf), [Supplement](https://github.com/Jasonlee1995/CS182/blob/main/Supplements/Lecture05_sup.pdf)|
 |6|Convolutional Nets|[Lecture Slide](https://github.com/Jasonlee1995/CS182/blob/main/Lecture%20Slides/Lecture06.pdf), [Supplement](https://github.com/Jasonlee1995/CS182/blob/main/Supplements/Lecture06_sup.pdf)|
+|7|Getting Neural Nets to Train|[Lecture Slide](https://github.com/Jasonlee1995/CS182/blob/main/Lecture%20Slides/Lecture07.pdf), [Supplement](https://github.com/Jasonlee1995/CS182/blob/main/Supplements/Lecture07_sup.pdf)|
+|8|Computer Vision|[Lecture Slide](https://github.com/Jasonlee1995/CS182/blob/main/Lecture%20Slides/Lecture08.pdf), [Supplement](https://github.com/Jasonlee1995/CS182/blob/main/Supplements/Lecture08_sup.pdf)|
 
 
 Format : |num|topic|[Lecture Slide](), [Supplement]()|

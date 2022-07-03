@@ -1,21 +1,17 @@
-# CS 182 : Designing, Visualizing and Understanding Deep Neural Networks from UC Berkeley
+# AI basic course
 
-## Lecture Slides and Supplements
-|Lecture|Topic|Links|
-|:-:|:-:|:-:|
-|1|Introduction|[Lecture Slide](https://github.com/Jasonlee1995/CS182/blob/main/Lecture%20Slides/Lecture01.pdf), [Supplement](https://github.com/Jasonlee1995/CS182/blob/main/Supplements/Lecture01_sup.pdf)|
-|2|ML Basics 1|[Lecture Slide](https://github.com/Jasonlee1995/CS182/blob/main/Lecture%20Slides/Lecture02.pdf), [Supplement](https://github.com/Jasonlee1995/CS182/blob/main/Supplements/Lecture02_sup.pdf)|
-|3|ML Basics 2|[Lecture Slide](https://github.com/Jasonlee1995/CS182/blob/main/Lecture%20Slides/Lecture03.pdf), [Supplement](https://github.com/Jasonlee1995/CS182/blob/main/Supplements/Lecture03_sup.pdf)|
-|4|Optimization|[Lecture Slide](https://github.com/Jasonlee1995/CS182/blob/main/Lecture%20Slides/Lecture04.pdf), [Supplement](https://github.com/Jasonlee1995/CS182/blob/main/Supplements/Lecture04_sup.pdf)|
-|5|Backpropagation|[Lecture Slide](https://github.com/Jasonlee1995/CS182/blob/main/Lecture%20Slides/Lecture05.pdf), [Supplement](https://github.com/Jasonlee1995/CS182/blob/main/Supplements/Lecture05_sup.pdf)|
-|6|Convolutional Nets|[Lecture Slide](https://github.com/Jasonlee1995/CS182/blob/main/Lecture%20Slides/Lecture06.pdf), [Supplement](https://github.com/Jasonlee1995/CS182/blob/main/Supplements/Lecture06_sup.pdf)|
-|7|Getting Neural Nets to Train|[Lecture Slide](https://github.com/Jasonlee1995/CS182/blob/main/Lecture%20Slides/Lecture07.pdf), [Supplement](https://github.com/Jasonlee1995/CS182/blob/main/Supplements/Lecture07_sup.pdf)|
-|8|Computer Vision|[Lecture Slide](https://github.com/Jasonlee1995/CS182/blob/main/Lecture%20Slides/Lecture08.pdf), [Supplement](https://github.com/Jasonlee1995/CS182/blob/main/Supplements/Lecture08_sup.pdf)|
+## 1. Linear Algebra
+|Topic|Links|
+|:-:|:-:|
 
 
-Format : |num|topic|[Lecture Slide](), [Supplement]()|
+Format : | Topic |[Lecture Slide](), [Summary]()|
 
 
-## Links
-- [Lecture Site](https://cs182sp21.github.io/)
-- [Lecture YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+## 2. Machine Learning
+
+
+## 3. Deep Learning
+
+
+## 4. Information Theory

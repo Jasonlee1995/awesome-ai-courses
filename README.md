@@ -14,6 +14,8 @@
 | 08 | - | Linear Combination, Vector Equation, Span | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/08.%20Linear%20Combination%2C%20Vector%20Equation%2C%20Span.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Linear-Combination-Vector-Equation-Span)|
 | 09 | - | Geometric Span Vector Equation | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/09.%20Geometric%20Span%20Vector%20Equation.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Geometric-Span-Vector-Equation)|
 | 10 | - | Four Views of Matrix Multiplication | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/10.%20Four%20Views%20of%20Matrix%20Multiplication.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Four-Views-of-Matrix-Multiplication)|
+| 11 | - | Linear Independence | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/11.%20Linear%20Independence.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Linear-Independence)|
+
 
 
 Format : | num | lecture | contents | [Lecture Slide](), [Summary]()|

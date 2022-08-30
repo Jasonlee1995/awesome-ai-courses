@@ -17,6 +17,8 @@
 | 11 | Linear Independence | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/11.%20Linear%20Independence.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Linear-Independence)|
 | 12 | Geometric Understanding of Linear Dependence | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/12.%20Geometric%20Understanding%20of%20Linear%20Dependence.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Geometric-Understanding-of-Linear-Dependence)|
 | 13 | Subspace, Basis | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/13.%20Subspace%2C%20Basis.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Subspace-Basis)|
+| 14 | Dimension, Rank | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/14.%20Dimension%2C%20Rank.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Dimension-Rank)|
+| 15 | Linear Transformation | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/15.%20Linear%20Transformation.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Linear-Transformation)|
 
 
 

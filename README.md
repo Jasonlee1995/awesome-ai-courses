@@ -21,6 +21,7 @@
 | 15 | Linear Transformation | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/15.%20Linear%20Transformation.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Linear-Transformation)|
 | 16 | Linear Transformation - Matrix of Linear Transformation | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/16.%20Linear%20Transformation%20-%20Matrix%20of%20Linear%20Transformation.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Matrix-of-Linear-Transformation)|
 | 17 | Linear Transformation - Linear Transformation in Neural Networks | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/17.%20Linear%20Transformation%20-%20Linear%20Transformation%20in%20Neural%20Networks.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Linear-Transformation-in-Neural-Networks)|
+| 18 | Linear Transformation - Onto One-to-one | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/18.%20Linear%20Transformation%20-%20Onto%20One-to-one.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Onto-One-to-one)|
 
 
 

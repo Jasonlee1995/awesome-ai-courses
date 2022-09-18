@@ -24,6 +24,7 @@
 | 18 | Linear Transformation - Onto One-to-one | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/18.%20Linear%20Transformation%20-%20Onto%20One-to-one.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Onto-One-to-one)|
 | 19 | Least Squares - Inner Product | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/19.%20Least%20Squares%20-%20Inner%20Product.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Inner-Product)|
 | 20 | Least Squares - Vector Norm, Orthogonal Vectors | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/20.%20Least%20Squares%20-%20Vector%20Norm%2C%20Orthogonal%20Vectors.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Vector-Norm-Orthogonal-Vectors)|
+| 21 | Least Squares - Least Squares Problem | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/21.%20Least%20Squares%20-%20Least%20Squares%20Problem.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Least-Squares-Problem)|
 
 
 

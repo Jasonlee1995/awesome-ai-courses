@@ -25,6 +25,8 @@
 | 19 | Least Squares - Inner Product | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/19.%20Least%20Squares%20-%20Inner%20Product.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Inner-Product)|
 | 20 | Least Squares - Vector Norm, Orthogonal Vectors | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/20.%20Least%20Squares%20-%20Vector%20Norm%2C%20Orthogonal%20Vectors.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Vector-Norm-Orthogonal-Vectors)|
 | 21 | Least Squares - Least Squares Problem | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/21.%20Least%20Squares%20-%20Least%20Squares%20Problem.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Least-Squares-Problem)|
+| 22 | Least Squares - Geometric Interpretation of Least Squares | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/22.%20Least%20Squares%20-%20Geometric%20Interpretation%20of%20Least%20Squares.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Geometric-Interpretation-of-Least-Squares)|
+| 23 | Least Squares - Normal Equation | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/23.%20Least%20Squares%20-%20Normal%20Equation.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Normal-Equation)|
 
 
 

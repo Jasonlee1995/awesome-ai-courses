@@ -28,6 +28,7 @@
 | 22 | Least Squares - Geometric Interpretation of Least Squares | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/22.%20Least%20Squares%20-%20Geometric%20Interpretation%20of%20Least%20Squares.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Geometric-Interpretation-of-Least-Squares)|
 | 23 | Least Squares - Normal Equation | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/23.%20Least%20Squares%20-%20Normal%20Equation.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Normal-Equation)|
 | 24 | Least Squares - Another Derivation of Normal Equation | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/24.%20Least%20Squares%20-%20Another%20Derivation%20of%20Normal%20Equation.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Another-Derivation-of-Normal-Equation)|
+| 25 | Least Squares - Normal Equation with Not Invertible Matrix | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/25.%20Least%20Squares%20-%20AA%20Notinvertible.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Normal-Equation-with-Not-Invertible-Matrix)|
 
 
 

@@ -29,6 +29,7 @@
 | 23 | Least Squares - Normal Equation | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/23.%20Least%20Squares%20-%20Normal%20Equation.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Normal-Equation)|
 | 24 | Least Squares - Another Derivation of Normal Equation | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/24.%20Least%20Squares%20-%20Another%20Derivation%20of%20Normal%20Equation.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Another-Derivation-of-Normal-Equation)|
 | 25 | Least Squares - Normal Equation with Not Invertible Matrix | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/25.%20Least%20Squares%20-%20AA%20Notinvertible.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Normal-Equation-with-Not-Invertible-Matrix)|
+| 26 | Least Squares - Orthogonal and Orthonormal basis, Orthogonal Projection, Gram Schmidt Orthogonolization, QR Factorization | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/26.%20Least%20Squares%20-%20Orthogonal%20and%20Orthonormal%20basis%2C%20Orthogonal%20Projection%2C%20Gram%20Schmidt%20Orthogonolization%2C%20QR%20Factorization.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Orthogonal-to-QR-Factorization)|
 
 
 

@@ -1,45 +1,14 @@
-# AI basic course
+# AI Lectures
+
+- Only consider lectures that could be found on YouTube
 
 
-## 1. Linear Algebra
-|Num|Topic|Links|
-|:-:|:-|:-:|
-| 01 | Elements in Linear Algebra - Vector Matrix Notation | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/01.%20Elements%20in%20linear%20algebra%20-%20Vector%20Matrix%20Notation.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Vector-Matrix-Notation)|
-| 02 | Elements in Linear Algebra - Vector Matrix Multiplication | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/02.%20Elements%20in%20linear%20algebra%20-%20Vector%20Matrix%20Multiplication.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Vector-Matrix-Multiplication)|
-| 03 | Lineary System - Linear Equation | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/03.%20Linear%20system%20-%20Linear%20Equation.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Linear-Equation)|
-| 04 | Lineary System - Linear System, Identity Matrix | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/04.%20Linear%20system%20-%20Linear%20System%2C%20Identity%20Matrix.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Linear-System-Identity-Matrix)|
-| 05 | Linear System - Inverse Matrix | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/05.%20Linear%20system%20-%20Inverse%20Matrix.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Inverse-Matrix)|
-| 06 | Linear System - Non Invertible Matrix | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/06.%20Linear%20system%20-%20Non%20Invertible%20Matrix.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Non-Invertible-Matrix)|
-| 07 | Linear System - Rectangular Matrix | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/07.%20Linear%20system%20-%20Rectangular%20Matrix.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Rectangular-Matrix)|
-| 08 | Linear Combination, Vector Equation, Span | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/08.%20Linear%20Combination%2C%20Vector%20Equation%2C%20Span.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Linear-Combination-Vector-Equation-Span)|
-| 09 | Geometric Span Vector Equation | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/09.%20Geometric%20Span%20Vector%20Equation.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Geometric-Span-Vector-Equation)|
-| 10 | Four Views of Matrix Multiplication | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/10.%20Four%20Views%20of%20Matrix%20Multiplication.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Four-Views-of-Matrix-Multiplication)|
-| 11 | Linear Independence | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/11.%20Linear%20Independence.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Linear-Independence)|
-| 12 | Geometric Understanding of Linear Dependence | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/12.%20Geometric%20Understanding%20of%20Linear%20Dependence.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Geometric-Understanding-of-Linear-Dependence)|
-| 13 | Subspace, Basis | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/13.%20Subspace%2C%20Basis.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Subspace-Basis)|
-| 14 | Dimension, Rank | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/14.%20Dimension%2C%20Rank.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Dimension-Rank)|
-| 15 | Linear Transformation | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/15.%20Linear%20Transformation.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Linear-Transformation)|
-| 16 | Linear Transformation - Matrix of Linear Transformation | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/16.%20Linear%20Transformation%20-%20Matrix%20of%20Linear%20Transformation.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Matrix-of-Linear-Transformation)|
-| 17 | Linear Transformation - Linear Transformation in Neural Networks | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/17.%20Linear%20Transformation%20-%20Linear%20Transformation%20in%20Neural%20Networks.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Linear-Transformation-in-Neural-Networks)|
-| 18 | Linear Transformation - Onto One-to-one | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/18.%20Linear%20Transformation%20-%20Onto%20One-to-one.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Onto-One-to-one)|
-| 19 | Least Squares - Inner Product | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/19.%20Least%20Squares%20-%20Inner%20Product.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Inner-Product)|
-| 20 | Least Squares - Vector Norm, Orthogonal Vectors | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/20.%20Least%20Squares%20-%20Vector%20Norm%2C%20Orthogonal%20Vectors.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Vector-Norm-Orthogonal-Vectors)|
-| 21 | Least Squares - Least Squares Problem | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/21.%20Least%20Squares%20-%20Least%20Squares%20Problem.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Least-Squares-Problem)|
-| 22 | Least Squares - Geometric Interpretation of Least Squares | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/22.%20Least%20Squares%20-%20Geometric%20Interpretation%20of%20Least%20Squares.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Geometric-Interpretation-of-Least-Squares)|
-| 23 | Least Squares - Normal Equation | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/23.%20Least%20Squares%20-%20Normal%20Equation.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Normal-Equation)|
-| 24 | Least Squares - Another Derivation of Normal Equation | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/24.%20Least%20Squares%20-%20Another%20Derivation%20of%20Normal%20Equation.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Another-Derivation-of-Normal-Equation)|
-| 25 | Least Squares - Normal Equation with Not Invertible Matrix | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/25.%20Least%20Squares%20-%20AA%20Notinvertible.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Normal-Equation-with-Not-Invertible-Matrix)|
-| 26 | Least Squares - Orthogonal and Orthonormal basis, Orthogonal Projection, Gram Schmidt Orthogonolization, QR Factorization | [Lecture Slide](https://github.com/Jasonlee1995/AI_basic/blob/main/1.%20Linear%20Algebra/Lecture%20Slides/26.%20Least%20Squares%20-%20Orthogonal%20and%20Orthonormal%20basis%2C%20Orthogonal%20Projection%2C%20Gram%20Schmidt%20Orthogonolization%2C%20QR%20Factorization.pdf), [Summary](https://velog.io/@jasonlee1995/Linear-Algebra-Orthogonal-to-QR-Factorization)|
+## 2021
+### Stanford CS224N : NLP with Deep Learning (Winter 2021)
+
+|Lecture|Description|Links|
+|:-:|:-:|:-:|
+|01|Word Vectors|[YouTube](), [slides](), [notes](), [assignments](), [solution]()|
 
 
-
-Format : | num | topic | [Lecture Slide](), [Summary]()|
-
-
-## 2. Machine Learning
-
-
-## 3. Deep Learning
-
-
-## 4. Information Theory
+Format : | | |[YouTube](), [slides](), [notes](), [assignments](), [solution]()|

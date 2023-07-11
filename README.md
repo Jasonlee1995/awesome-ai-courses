@@ -17,6 +17,14 @@
 
 
 
+## Graph
+
+|Year|Title|Info|Links|
+|:-|:-|:-|:-|
+|2021 Winter|Machine Learning with Graphs|Stanford CS224W|[YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn), [Website](http://snap.stanford.edu/class/cs224w-2020/)|
+
+
+
 ## Graphics
 
 |Year|Title|Info|Links|

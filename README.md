@@ -81,6 +81,7 @@
 |:-|:-|:-|:-|
 |2022 Fall|Deep Reinforcement Learning|UC Berkeley CS285|[YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfX7MaC6C3HcdOf1g337dlC9), [Website](https://rail.eecs.berkeley.edu/deeprlcourse/)|
 |2019 Winter|Reinforcement Learning|Stanford CS234|[YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u), [Website](http://web.stanford.edu/class/cs234/CS234Win2019/index.html)|
+|2018 Spring|Reinforcement Learning|Waterloo CS885|[YouTube](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc), [Website](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/schedule.html)|
 |2015|Introduction to Reinforcement Learning|DeepMind x UCL, David Silver|[YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ), [Website](https://www.davidsilver.uk/teaching/)|
 
 

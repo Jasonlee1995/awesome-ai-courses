@@ -1,7 +1,7 @@
 # Awesome AI Courses
 
 - A curated list of awesome, free AI courses available on YouTube.
-- Only courses taught in English are considered.
+- Courses taught in English are only considered.
 - If you're new in this field, I highly recommend the courses listed on section `AI`, `DL` or `ML`.
 - If you know good courses not on the list, feel free to open an issue!
 

@@ -58,6 +58,7 @@
 
 |Year|Title|Info|Links|
 |:-|:-|:-|:-|
+|2023 Summer|Probabilistic Machine Learning|University of Tübingen|[YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx), [Website](https://github.com/philipphennig/Probabilistic_ML)|
 |2020 Spring|Applied Machine Learning|Columbia COMS W4995|[YouTube](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM), [Website](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/)|
 |2019 Summer|Machine Learning|Stanford CS229|[YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh), [Website](http://cs229.stanford.edu/syllabus-summer2019.html)|
 

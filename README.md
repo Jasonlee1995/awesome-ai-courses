@@ -121,9 +121,10 @@
 
 |Year|Title|Info|Links|
 |:-|:-|:-|:-|
+|2024 Winter|Recent Advances on Foundation Models|Waterloo CS886|[unique playlist X], [Website](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)|
 |2023 Fall|Transformers United|Stanford CS25|[YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM), [Website](https://web.stanford.edu/class/cs25/)|
 |2022 Fall|Geometric Deep Learning|AMMI GDL100|[YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C), [Website](https://geometricdeeplearning.com/lectures/)|
-|2021 Fall|Deep Multi-Task and Meta Learning|Stanford CS330|[YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMIJ-TvblAIkw28Wxi27B36), [Website](http://cs330.stanford.edu/fall2021/index.html)|
+|2021 Fall|Deep Multi-Task and Meta Learning|Stanford CS330|[YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMIJ-TvblAIkw28Wxi27B36), [Website](http://cs330.stanford.edu/fall2021/index.html)| 
 
 
 Format : |Year|Title|Info|[YouTube](), [Website]()|

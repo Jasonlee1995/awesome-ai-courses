@@ -102,6 +102,7 @@
 
 |Year|Title|Info|Links|
 |:-|:-|:-|:-|
+|2023 Winter|Convex Optimization I|Stanford EE364A|[YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h), [Website](https://stanford.edu/class/ee364a/)|
 |2021 Fall|Machine Learning Theory|Stanford CS229M|[YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh), [Website](https://web.stanford.edu/class/stats214/)|
 |2019 Winter|Information Theory|Stanford EE376A|[YouTube](https://www.youtube.com/playlist?list=PLv_7iO_xlL0Kz2nU05COpINjU8C0UPICA), [Website](https://web.stanford.edu/class/ee376a/index.html)|
 |2012 Winter|Information Theory, Pattern Recognition, and Neural Networks|University of Cambridge, David MacKay|[YouTube](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6), [Website](http://www.inference.org.uk/itprnn_lectures/)|

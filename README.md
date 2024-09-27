@@ -113,6 +113,7 @@
 
 |Year|Title|Info|Links|
 |:-|:-|:-|:-|
+|2024 Spring|Deep Unsupervised Learning|UC Berkeley CS294-158|[YouTube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu_uygrV3ut_U), [Website](https://sites.google.com/view/berkeley-cs294-158-sp24/home)|
 |2020 Spring|Deep Unsupervised Learning|UC Berkeley CS294-158|[YouTube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP), [Website](https://sites.google.com/view/berkeley-cs294-158-sp20/home)|
 |2020 Spring|Probabilistic Graphical Models|CMU 10-708|[YouTube](https://www.youtube.com/playlist?list=PLoZgVqqHOumTqxIhcdcpOAJOOimrRCGZn), [Website](https://www.cs.cmu.edu/~epxing/Class/10708-20/index.html)|
 

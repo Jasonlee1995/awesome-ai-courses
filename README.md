@@ -114,6 +114,8 @@
 |Year|Title|Info|Links|
 |:-|:-|:-|:-|
 |2024 Spring|Deep Unsupervised Learning|UC Berkeley CS294-158|[YouTube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu_uygrV3ut_U), [Website](https://sites.google.com/view/berkeley-cs294-158-sp24/home)|
+|2023 Fall|Deep Generative Models|Stanford CS236|[YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8), [Website](https://deepgenerativemodels.github.io/)|
+|2023 Spring|Deep Generative Models|Cornell CS 6785|[YouTube](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B), [Website](https://kuleshov-group.github.io/dgm-website/)|
 |2020 Spring|Deep Unsupervised Learning|UC Berkeley CS294-158|[YouTube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP), [Website](https://sites.google.com/view/berkeley-cs294-158-sp20/home)|
 |2020 Spring|Probabilistic Graphical Models|CMU 10-708|[YouTube](https://www.youtube.com/playlist?list=PLoZgVqqHOumTqxIhcdcpOAJOOimrRCGZn), [Website](https://www.cs.cmu.edu/~epxing/Class/10708-20/index.html)|
 
@@ -127,6 +129,7 @@
 |2023 Fall|Transformers United|Stanford CS25|[YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM), [Website](https://web.stanford.edu/class/cs25/)|
 |2022 Fall|Geometric Deep Learning|AMMI GDL100|[YouTube](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C), [Website](https://geometricdeeplearning.com/lectures/)|
 |2021 Fall|Deep Multi-Task and Meta Learning|Stanford CS330|[YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMIJ-TvblAIkw28Wxi27B36), [Website](http://cs330.stanford.edu/fall2021/index.html)| 
+
 
 
 Format : |Year|Title|Info|[YouTube](), [Website]()|

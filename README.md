@@ -52,6 +52,8 @@
 
 |Year|Title|Info|Links|
 |:-|:-|:-|:-|
+|2024 Spring|Computer Graphics|KAIST CS580|[YouTube](https://www.youtube.com/playlist?list=PLyi5FHzX7hBwMsuoGWFqQhkawUX0HFT7U), [Website](https://mhsung.github.io/kaist-cs580-spring-2024/)|
+|2023 Fall|Machine Learning for 3D Data|KAIST CS479|[YouTube](https://www.youtube.com/playlist?list=PLyi5FHzX7hBzv6p_USmzLvL8TBKWljOph), [Website](https://mhsung.github.io/kaist-cs479-fall-2023/)|
 |2020 Fall|Computer Graphics|CMU 15-462/662|[YouTube](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E), [Website](http://15462.courses.cs.cmu.edu/fall2020/)|
 
 
@@ -113,11 +115,14 @@
 
 |Year|Title|Info|Links|
 |:-|:-|:-|:-|
+|2024 Fall|Diffusion Models and Their Applications|KAIST CS492D|[YouTube](https://www.youtube.com/playlist?list=PLyi5FHzX7hBxtkKUZLRdiq5C01QimCno2), [Website](https://mhsung.github.io/kaist-cs492d-fall-2024/)|
 |2024 Spring|Deep Unsupervised Learning|UC Berkeley CS294-158|[YouTube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu_uygrV3ut_U), [Website](https://sites.google.com/view/berkeley-cs294-158-sp24/home)|
 |2023 Fall|Deep Generative Models|Stanford CS236|[YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8), [Website](https://deepgenerativemodels.github.io/)|
 |2023 Spring|Deep Generative Models|Cornell CS 6785|[YouTube](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B), [Website](https://kuleshov-group.github.io/dgm-website/)|
 |2020 Spring|Deep Unsupervised Learning|UC Berkeley CS294-158|[YouTube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP), [Website](https://sites.google.com/view/berkeley-cs294-158-sp20/home)|
 |2020 Spring|Probabilistic Graphical Models|CMU 10-708|[YouTube](https://www.youtube.com/playlist?list=PLoZgVqqHOumTqxIhcdcpOAJOOimrRCGZn), [Website](https://www.cs.cmu.edu/~epxing/Class/10708-20/index.html)|
+
+
 
 
 

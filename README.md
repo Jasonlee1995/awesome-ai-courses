@@ -96,6 +96,7 @@
 
 |Year|Title|Info|Links|
 |:-|:-|:-|:-|
+|2024 Fall|Robots That Learn|UC Berkeley CS 294-277|[YouTube](https://www.youtube.com/playlist?list=PLPaC96j0xdLcYLTSoSk9PO1Yg-1udJd-S), [Website](https://robots-that-learn.github.io/)|
 |2019 Fall|Advanced Robotics|UC Berkeley CS287|[YouTube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF), [Website](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)|
 
 
